@@ -8,11 +8,11 @@ self.__precacheManifest = [
     "url": "/chs.scheduling.client/js/chunk-vendors.1ba5b4ab.js"
   },
   {
-    "revision": "5bb982caabbe89b63af7",
-    "url": "/chs.scheduling.client/js/app.1ead38ae.js"
+    "revision": "da65c1c183d23ee3d08c",
+    "url": "/chs.scheduling.client/js/app.39993bfd.js"
   },
   {
-    "revision": "0b06972a2d13d5b3bbf2bc767379bb0f",
+    "revision": "20b01f71d9280fc92b00ba6623fa8cbc",
     "url": "/chs.scheduling.client/index.html"
   },
   {

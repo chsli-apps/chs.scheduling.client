@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/chs.scheduling.client/precache-manifest.7934bdd2c4118fb446643956b593bd01.js"
+  "/chs.scheduling.client/precache-manifest.adff5486b560db3144ec10a65dc904df.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "chs.scheduling"});

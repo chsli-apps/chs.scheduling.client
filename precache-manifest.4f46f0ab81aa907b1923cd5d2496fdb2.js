@@ -8,11 +8,11 @@ self.__precacheManifest = [
     "url": "/chs.scheduling.client/js/chunk-vendors.57d1c01d.js"
   },
   {
-    "revision": "1f7e20ba35f46ed16dcc",
-    "url": "/chs.scheduling.client/js/app.a0e5a2cb.js"
+    "revision": "471bfe861554d19c6c4d",
+    "url": "/chs.scheduling.client/js/app.84d2bdb6.js"
   },
   {
-    "revision": "4d50b7a0b8b4ad741e2ff938bcd4ee0a",
+    "revision": "0828b600d43feae11fe423aefedb3231",
     "url": "/chs.scheduling.client/index.html"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/chs.scheduling.client/css/chunk-vendors.bc062938.css"
   },
   {
-    "revision": "1f7e20ba35f46ed16dcc",
+    "revision": "471bfe861554d19c6c4d",
     "url": "/chs.scheduling.client/css/app.25a7f99b.css"
   }
 ];
